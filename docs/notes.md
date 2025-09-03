@@ -7,3 +7,4 @@ Notes and usage details for poker-coach-lab.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- link the usage section
