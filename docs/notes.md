@@ -13,3 +13,4 @@ Notes and usage details for poker-coach-lab.
 - add a note about the defaults
 - fix a small wording issue
 - clarify the setup steps
+- fix a small wording issue
