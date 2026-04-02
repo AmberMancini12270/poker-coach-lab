@@ -18,3 +18,4 @@ Notes and usage details for poker-coach-lab.
 - link the usage section
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
