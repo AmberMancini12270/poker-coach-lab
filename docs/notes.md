@@ -21,3 +21,4 @@ Notes and usage details for poker-coach-lab.
 - fix a small wording issue
 - fix a small wording issue
 - fix a small wording issue
+- add a note about the defaults
